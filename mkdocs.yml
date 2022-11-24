@@ -1,0 +1,62 @@
+site_name: Dungeons and Dragons para principiantes
+site_author: Pedro Díaz Fornet
+site_url: https://github.com/PDFornet/dnd.git
+docs_dir: 'md'
+site_dir: 'docs'
+repo_url: https://github.com/PDFornet/dnd.git # Link al repositorio
+repo_name: PDFornet/dnd.git
+
+edit_uri: '' #Suprimir el icono de edición (https://www.mkdocs.org/user-guide/configuration/#edit_uri)
+
+nav:
+    - Dungeons and Dragons:
+        - ¿Qué es Dungeons and Dragons?: dungeons/dnd.md
+        - Conceptos básicos: dungeons/conceptosbasicos.md
+    - Primeros pasos:
+        - Razas: primeros_pasos/razas.md
+        - Clases: primeros_pasos/clases.md
+        - Trasfondos: primeros_pasos/trasfondos.md
+        - Estadísticas: primeros_pasos/estats.md
+    - Crea a tu personaje:
+        - Construcción de personajes: personajes/creacion.md
+        - Trasfondo y motivaciones: personajes/trasfondo-motivacion.md
+        - Habilidades e historia: personajes/habilidades.md
+    - Combate - Toma de contacto:
+        - Tiradas: combate/tiradas.md
+        - Tirada de ataque: combate/ataque.md
+        - Tirada de salvación: combate/salvacion.md
+        - Armas: combate/armas.md
+        - Rasgos y atributos: combate/rasgos-atributos.md
+        - Hechizos: combate/hechizos.md
+theme:
+    name: readthedocs
+    include_search_page: false
+    font:
+        code: Roboto
+        text: Baloo 2
+    palette: 
+      scheme: default
+      primary: teal
+      accent: green
+    favicon: images/docker.png    
+    features:
+        #- header.autohide
+        - toc.follow0
+        - toc.integrate
+        - search.suggest
+        #- navigation.tabs
+        #- navigation.tabs.sticky
+        - navigation.top
+    logo: images/docker.png
+    icon:
+        admonition:
+            note: octicons/alert-24
+            example: octicons/book-16
+extra:
+    generator: false #Muestra en el pie de página que se ha realizado con Mkdocs
+    social:
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:<devofenix@gmail.com>
+#extra_css:
+#  - stylesheets/extra.css
+
