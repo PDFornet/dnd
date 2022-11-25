@@ -31,14 +31,14 @@ nav:
         - Multiclase: nivel/multiclass.md
        
 theme:
-    name: material
+    name: mkdocs
     include_search_page: false
     font:
         code: Roboto
         text: Baloo 2
     palette: 
       scheme: red
-      primary: red
+      primary: white
       accent: red
     favicon: images/docker.png    
     features:
