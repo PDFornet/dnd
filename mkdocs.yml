@@ -55,7 +55,6 @@ theme:
             note: octicons/alert-24
             example: octicons/book-16
 extra:
-    generator: false #Muestra en el pie de página que se ha realizado con Mkdocs
     social:
     - icon: fontawesome/solid/paper-plane
       link: mailto:<fj.manofrasquet@edu.gva.es>
