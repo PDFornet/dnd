@@ -1,0 +1,63 @@
+site_name: Dungeons and Dragons para principiantes
+site_author: Pedro Díaz Fornet
+site_url: https://github.com/PDFornet/dnd
+docs_dir: 'md'
+site_dir: 'docs'
+repo_url: https://github.com/PDFornet/dnd # Link al repositorio
+repo_name: PDFornet/dnd
+
+edit_uri: '' #Suprimir el icono de edición (https://www.mkdocs.org/user-guide/configuration/#edit_uri)
+
+nav:
+    - Dungeons and Dragons:
+        - ¿Qué es DnD?: dnd/dungeons.md
+        - Conceptos básicos: dnd/conceptosbasicos.md
+    - Crea a tu personaje:
+        - Razas: primeros_pasos/razas.md
+        - Clases: primeros_pasos/clases.md
+        - Trasfondos: primeros_pasos/trasfondos.md
+    - Historia y motivación: 
+        - Historia y motivación: lore/historia.md
+        - Habilidades y Características: lore/habilidades.md
+    - Combate:
+        - Tiradas de Ataque y salvación: combate/tiradas.md
+        - Armas: combate/armas.md
+        - Rasgos y habilidades: combate/rasgos.md
+        - Hechizos: combate/hechizos.md
+        - Objetos mágicos: combate/objetosmagicos.md
+    - Subida de nivel: 
+        - ¿Cómo se sube de nivel?: nivel/subida.md
+        - Subida de nivel: nivel/lvlup.md
+        - Multiclase: nivel/multiclass.md
+       
+theme:
+    name: mkdocs
+    include_search_page: false
+    font:
+        code: Roboto
+        text: Baloo 2
+    palette: 
+      scheme: default
+      primary: teal
+      accent: green
+    favicon: images/docker.png    
+    features:
+        #- header.autohide
+        - toc.follow0
+        - toc.integrate
+        - search.suggest
+        #- navigation.tabs
+        #- navigation.tabs.sticky
+        - navigation.top
+    logo: images/docker.png
+    icon:
+        admonition:
+            note: octicons/alert-24
+            example: octicons/book-16
+extra:
+    generator: false #Muestra en el pie de página que se ha realizado con Mkdocs
+    social:
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:<fj.manofrasquet@edu.gva.es>
+extra_css:
+  - stylesheets/extra.css    
