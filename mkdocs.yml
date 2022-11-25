@@ -40,7 +40,7 @@ theme:
       scheme: red
       primary: red
       accent: red
-    favicon: images/docker.png    
+    favicon: images/d20.png  
     features:
         #- header.autohide
         - toc.follow0
@@ -49,7 +49,7 @@ theme:
         #- navigation.tabs
         #- navigation.tabs.sticky
         - navigation.top
-    logo: images/docker.png
+    logo: images/d20.png
     icon:
         admonition:
             note: octicons/alert-24
