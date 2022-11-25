@@ -1,4 +1,4 @@
-site_name: D&D para principiantes
+site_name: D&D
 site_author: Pedro Díaz Fornet
 site_url: https://github.com/PDFornet/dnd
 docs_dir: 'md'
@@ -37,9 +37,9 @@ theme:
         code: Roboto
         text: Baloo 2
     palette: 
-      scheme: default
-      primary: teal
-      accent: green
+      scheme: red
+      primary: white
+      accent: red
     favicon: images/docker.png    
     features:
         #- header.autohide
