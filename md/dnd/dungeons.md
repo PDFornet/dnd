@@ -1,4 +1,4 @@
-## ¿Qué es Dungeons and Dragons?
+# ¿Qué es Dungeons and Dragons?
 
 Si nos centramos en lo más básico, **D&D** es un *juego de rol* en el que, además de **lanzar unos dados**, interpretas a un **personaje** que tú has creado. 
 
