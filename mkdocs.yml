@@ -57,6 +57,6 @@ theme:
 extra:
     social:
     - icon: fontawesome/solid/paper-plane
-      link: mailto:<fj.manofrasquet@edu.gva.es>
+      link: mailto:<devofenix@gmail.com>
 extra_css:
   - stylesheets/extra.css    
