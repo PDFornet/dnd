@@ -35,7 +35,7 @@ theme:
     include_search_page: false
     font:
         code: Roboto
-        text: Baloo 2
+        text: Calibri
     palette: 
       scheme: red
       primary: red
