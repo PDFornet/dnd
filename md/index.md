@@ -1,17 +1,15 @@
-# Welcome to MkDocs
+# D&D para principiantes
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+En este sitio web encontrarás todo lo necesario para iniciarte en D&D y poder jugar.
 
-## Commands
+## ¿Qué veremos?
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+* Cómo crear tu personaje.
+* Mecánicas del juego.
+* Roleo y cómo mejorar como jugador.
 
-## Project layout
+## Próximamente... 
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Aquí añadiré los cambios o modificaciones que iré añadiendo a la web.
+Para cualquier sugerencia o comentario devofenix@gmail.com
+    
