@@ -1,6 +1,6 @@
 # Conceptos básicos
 
-Mucha gente, yo incluido, cuando empieza a jugar suele preguntarse cosas como *"pero, ¿qué necesito saber para jugar?"* *"¿Cuántos dados necesito para una sesión?"* *"¿Me tengo que comprar las figuras?"* 
+Mucha gente, yo incluido, cuando empieza a jugar suele preguntarse cosas como *"pero, ¿qué necesito saber para jugar?"* *"¿Cuántos dados necesito para una sesión?"* *"¿Me tengo que comprar las figuras?"*  
 
 Y la respuesta a todas ellas es simple: **depende**. Es decir, obviamente todos queremos jugar a D&D a modo profesional como hemos visto en los vídeos virales de **Critical Role** pero ¿es realmente necesario? La respuesta corta es **no**. 
 
