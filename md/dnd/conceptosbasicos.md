@@ -8,4 +8,4 @@ Para jugar a D&D solo necesitamos 4 cosas: **un personaje**, un **grupo de 2-5 a
 
 El resto son añadidos que nos facilitan la inmersión en la partida y hacen que jugar sea más divertido, pero no por ello implica que sea inprescindible.
 
-Hay muchas formas de jugar a D&D, se puede jugar en mesa o por internet. Con ls fichas en físico o en digital y con dados reales o aplicaciones que hagan las tiradas, el caso es que encuentres con la que te sientas mejor y puedas jugar a gusto.
+Hay muchas formas de jugar a D&D, se puede jugar en mesa o por internet. Con las fichas en físico o en digital y con dados reales o aplicaciones que hagan las tiradas, el caso es que encuentres con la que te sientas mejor y puedas jugar a gusto.
