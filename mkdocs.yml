@@ -49,8 +49,8 @@ theme:
         #- navigation.tabs
         #- navigation.tabs.sticky
         - navigation.top
-    logo: images/d20.png
-    icon:
+    logo: 
+    icon: images/d20.png
         admonition:
             note: octicons/alert-24
             example: octicons/book-16
