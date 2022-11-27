@@ -4,11 +4,7 @@ Mucha gente, yo incluido, cuando empieza a jugar suele preguntarse cosas como *"
 
 Y la respuesta a todas ellas es simple: **depende**. Es decir, obviamente todos queremos jugar a D&D a modo profesional como hemos visto en los vídeos virales de **Critical Role** pero ¿es realmente necesario? La respuesta corta es **no**. 
 
-Para jugar a D&D solo necesitamos 4 cosas: 
-* Un personaje
-* Un grupo de 2-5 amigos
-* Un Master
-* Mucha imaginación
+Para jugar a D&D solo necesitamos 4 cosas: **un personaje**, un **grupo de 2-5 amigos**, un **Dungeon Master** y, sobre todo **mucha imaginación**.
 
 El resto son añadidos que nos facilitan la inmersión en la partida y hacen que jugar sea más divertido, pero no por ello implica que sea inprescindible.
 
