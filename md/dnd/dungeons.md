@@ -8,6 +8,6 @@ A mí me gusta pensar que nos teletransportamos a otra realidad en la que somos 
 
 Dungeons and Dragons está basado en lo que se conoce como **sistema D20**. Lo que esto significa es que D&D utiliza el dado **D20** como dado principal, aunque también haremos uso de otros dados como el **D4** o el **D12** por ejemplo pero en menor medida. Pero de estos y los demás dados hablaremos más en la sección de **tiradas**, así que para más información id allí.
 
-![dados](/docs/assets/images/dados.jpeg)
+![dados](/md/images/dados.jpeg)
 
 Es decir, para resumir, **Dungeons and Dragons** es un juego de mesa en el que interpretaremos el papel que hayamos decidido y hablado con el Master y viviremos una aventura única en la que seremos partícipes de todo cuanto ocurre.
