@@ -19,6 +19,9 @@ Hablaremos de todos estos conceptos más adelante en profundidad pero para empez
 * `Clase/Subclase:` Se trata del rol que desempeña tu personaje en el mundo y determina qué acciones va a poder ejercer en combate o en qué habilidades va a destacar también. Hechicero, druida y paladín serían algunos ejemplos.
 * `Trasfondo:` Es el pasado de tu personaje, qué ha hecho y cómo ha vivido hasta llegar al día de hoy. Por supuesto también va a otorgarnos habilidades y rasgos. Erudito, huérfano o héroe del pueblo son ejemplos de trasfondo.
 * `Características:` Son las estadísticas de nuestro personaje. Determinan la fuerza, destreza, inteligencia, sabiduría, carisma y constitución de nuestro personaje.
-* `Habilidades:` Son las capacidades tanto físicas como mentales de nuestro personaje. Se basan en 
-* `Rasgos:` 
-* `Tiradas:` 
+* `Habilidades:` Son las capacidades tanto físicas como mentales de nuestro personaje. Se basan en las características del mismo y determinan si una acción ocurre o no. Podríamos mencionar percepción, persuasión o trato con animales por ejemplo.
+* `Rasgos:` Son habilidades más enfocadas al combate y tu personaje las ganará por trasfondo, clase o nivel. Por ejemplo *visión en la oscuridad* o *investigadora* serían algunos ragos bastante comunes.
+* `Tiradas:` Por último, pero no por ello menos importante, tenemos las tiradas. Son el eje de las partidas de D&D, determinan prácticamente todo lo que ocurre. Desde ataques a salvaciones (hablaremos de esto en la sección [Tiradas](../combate/tiradas.md)) pasando por los *check de habilidad* e incluso la *muerte*.
+
+
+Con todo esto ya podríamos empezar a [crear tu personaje](../primeros_pasos/razas.md). 
