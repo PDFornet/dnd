@@ -41,14 +41,14 @@ theme:
       primary: red
       accent: red
     favicon: md/images/d20.png  
-    features:
+#    features:
         #- header.autohide
-        - toc.follow0
-        - toc.integrate
-        - search.suggest
+        #- toc.follow0
+        #- toc.integrate
+        #- search.suggest
         #- navigation.tabs
         #- navigation.tabs.sticky
-        - navigation.top
+        #- navigation.top
     logo: 
     icon: md/images/d20.png
 #        admonition:

@@ -13,5 +13,3 @@ Dungeons and Dragons está basado en lo que se conoce como **sistema D20**. Lo q
 ![dados](../images/dados.jpeg)
 
 Es decir, para resumir, **Dungeons and Dragons** es un juego de mesa en el que interpretaremos el papel que hayamos decidido y hablado con el Master y viviremos una aventura única en la que seremos partícipes de todo cuanto ocurre.
-
-`Hay que tener claro que esto es material NO OFICIAL y que en todo momento es mi opinión personal la que se refleja, no implica que se tenga que jugar así sí o sí`
