@@ -13,7 +13,8 @@ Los dracónidos son una raza orgullosa y valiente que desciende de los dragones 
 
 Es esta descendencia de los antiguos dragones la que les proporciona sus cualidades físicas. Suelen ser altos comparados con los humanos y corpulentos por lo general. Tienen el cuerpo cubierto de escamas de color el cual viene determinado por su linaje (ver tabla en el **manual del jugador**) y le otorgará un rasgo único de esta clase: ***Ataque de aliento***.  
 
-Es por esto que, por el simple hecho de escoger esta raza, vas a obtener: 
+Es por esto que, por el simple hecho de escoger esta raza, vas a obtener:  
+
 * **+2 en Fuerza**
 * **+1 en Carisma** 
 * **Resistencia al daño** del tipo que determine tu linaje dracónido.
