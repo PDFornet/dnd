@@ -1,4 +1,4 @@
-# Clases
+# **Clases**  
 ## Guerreros, magos y pícaros.
 
 No importa si has escogido primero la raza y vas a seleccionar su clase ahora o si, en cambio, primero eliges la clase y después ya pensarás de qué raza va a ser tu personaje. La cosa es que pienses en cómo quieres que tu personaje se mueva por el mundo que se presenta ante ti.  
