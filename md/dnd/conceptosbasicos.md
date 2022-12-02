@@ -1,4 +1,4 @@
-# Conceptos básicos
+# **Conceptos básicos**
 ## Todo cuanto necesitas para jugar
 
 Mucha gente, yo incluido, cuando empieza a jugar suele preguntarse cosas como *"pero, ¿qué necesito saber para jugar?"* *"¿Cuántos dados necesito para una sesión?"* *"¿Me tengo que comprar las figuras?"*

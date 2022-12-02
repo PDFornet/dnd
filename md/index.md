@@ -1,4 +1,4 @@
-# D&D para principiantes
+# **D&D para principiantes**
 
 En este sitio web encontrarás todo lo necesario para **iniciarte en D&D** y poder jugar.  
 En esta web **NO hablaremos de todas las clases y razas** sino que intentaré daros unas **guías básicas** con las que podréis construir cualquier personaje mirando la documentación oficial en el **Manual del jugador** o cualquier página de internet.

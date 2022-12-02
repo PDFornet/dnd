@@ -1,4 +1,4 @@
-# Historia y motivación
+# **Historia y motivación**
 ## Tu historia en este mundo
 
 En el apartado de **Trasfondos** nos preguntábamos lo siguiente: *¿Cómo escribo mi historia? ¿Por dónde empiezo? ¿Debo estudiarme todo el universo de D&D para crear el personaje?* y vamos a tratar de dar respuesta a todas estas preguntas en esta página.

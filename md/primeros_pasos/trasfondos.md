@@ -1,4 +1,4 @@
-# Trasfondos
+# **Trasfondos**
 ## Pasado e historia
 
 Los trasfondos hacen referencia al pasado de tu personaje, cuentan un poco de la historia de aquello que ha estado haciendo y dan sentido a algunas de las habilidades o características que ha ido aprendiendo a lo largo de su vida. Existen un sinfín de trasfondos, tantos como personajes puede haber. Y es que el pasado de cada uno es individual para cada ser.  

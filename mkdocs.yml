@@ -40,7 +40,7 @@ theme:
       scheme: red
       primary: red
       accent: red
-    favicon: md/images/d20.png  
+    favicon: ./md/images/
 #    features:
         #- header.autohide
         #- toc.follow0
@@ -50,7 +50,7 @@ theme:
         #- navigation.tabs.sticky
         #- navigation.top
     logo: 
-    icon: md/images/d20.png
+    icon: ./md/images/d20.jpeg
 #        admonition:
 #            note: octicons/alert-24
 #            example: octicons/book-16
