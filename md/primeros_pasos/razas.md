@@ -1,7 +1,7 @@
 # Razas 
 ## De los humanos a los gnomos
 
-En D&D puedes encarnar al personaje que quieras, desde un humano común hasta una criatura humanoide proveniente del underdark, el límite está en tu imaginación (y en lo que te permita el **DM**) aquí ***no veremos todas las razas**, sino que **explicaré cómo funcionan en general** para crear un personaje, y sabiendo esto ya podréis escoger la que queráis.
+En D&D puedes encarnar al personaje que quieras, desde un humano común hasta una criatura humanoide proveniente del underdark, el límite está en tu imaginación (y en lo que te permita el **DM**) aquí **no veremos todas las razas**, sino que **explicaré cómo funcionan en general** para crear un personaje, y sabiendo esto ya podréis escoger la que queráis.
 
 Lo principal al crear un personaje, desde mi punto de vista, es pensar en qué te apetece jugar, qué ser de fantasía medieval quieres encarnar en tu aventura. 
 
