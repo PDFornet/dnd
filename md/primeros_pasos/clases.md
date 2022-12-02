@@ -49,9 +49,27 @@ Vamos a crear un personaje de nivel 1, entonces nuestros atributos serían:
 Ahora nos queda por último las habilidades o capacidades que ganamos por ser clérigos.
 
 * **`Lanzamiento de conjuros`**
-    Como canalizador del poder divino, puedes lanzar conjuros de la lista de conjuros de clérigo. 
+    Como canalizador del poder divino, puedes lanzar conjuros de la lista de conjuros de clérigo.  
+    
     * `Trucos`
-    Conoces tres trucos de la lista de clérigo.
+    Conoces tres trucos de la lista de clérigo.  
+
     * `Preparar y lanzar conjuros`
-    A diferencia de otras clases que usan la magia, los clérigos no se limitan a aquellos conjuros que aprenden ya sea con estudio o de forma innata, lo que hacen es prepararse el día anterior los conjuros que van a conocer el día siguiente. Es decir, **preparan una cantidad de conjuros que van a poder utilizar**.
-    * `Aptitud mágica`
+    Como clérigo tienes acceso a **todos los conjuros** de la lista de conjuros de clérigo. Pero para poder usar un conjuro debes haberlo preparado el día anterior antes de haber realizado el descanso. Puedes preparar una cantidad de conjuros igual a **tu nivel de clérigo + tu modificador por Sabiduría**. Por ejemplo un clérigo nivel 3 con 16 (+4) en Sabiduría tendrás cuatro espacios de nivel 1 y dos de nivel 2 para lanzar tus conjuros (revisar la cantidad en la tabla de la clase) y podrías tener preparados para lanzar uin total de 7 conjuros, aunque sólo tendrías la capacidad de lanzar 6.  
+
+    * `Aptitud mágica` 
+    Esta es la característica con la que vas a lanzar tus conjuros, es decir, ya sea para lanzar un ataque o para que se defiendan de uno de tus conjuros, vamos a tener en cuenta esta característica. En el caso del clérigo es la **Sabiduría**.
+        - `CD tirada de salvación:` 8 + bonificador por competencia + modificador por Sabiduría.
+        - `Ataque de conjuros:` bonificador por competencia + modificador por Sabiduría.
+
+    * `Lanzamiento rittual`  
+    Puedes lanzar de forma ritual aquellos conjuros de clérigo que tengas preparados y estén marcados como "ritual".  
+
+    * `Canalizador mágico`  
+    Puedes utilizar un símbolo sagrado como canalizador mágico para los conjuros. Es decir, aquello que se empuña para canalizar la magia.  
+
+* **`Dominio divino`**  
+Escoges un dominio, que debe estar relacionado con tu dios: Conocimiento, Engaño, Guerra, Luz, Naturaleza, Tempestad o Vida. Cada uno de estos dominios te otorgan conjuros que tienes **siempre preparados** y te proporciona formas adinionales de usar la **canalización Divina**, pero este último rasgo es de nivel 2, y ahora mismo no nos atañe.
+Para ver todos los Dominios que hay puedes consultar el **Manual del jugador** o cualquier página de internet para poder ver qué obtienes.
+
+Para poder ver la lista de conjuros puedes visitar el link en la página de [Nivel 20](https://nivel20.com/games/dnd-5/rulebooks/4-reglas-basicas/spell_lists/4-conjuros-de-clerigo) 
