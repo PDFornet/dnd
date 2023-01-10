@@ -59,4 +59,4 @@ extra:
     - icon: fontawesome/solid/paper-plane
       link: mailto:<devofenix@gmail.com>
 extra_css:
-  - stylesheets/extra.css    
+  - assets/stylesheets/extra.css    

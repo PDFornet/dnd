@@ -5,7 +5,8 @@ En el apartado de **Trasfondos** nos preguntábamos lo siguiente: *¿Cómo escri
 
 ### Cómo escribir tu historia
 
-Bien, obviamente para el poder tener una historia coherente y que se integre correctamente en el universo que vayamos a jugar deberíamos, al menos, darle un pequeño vistazo al *lore* de los humanos en caso de que queramos ser de esta raza y a cómo funcionan los sacerdotes en el caso de que vayamos a querer jugar esta clase.  
+Bien, obviamente para el poder tener una historia coherente y que se integre correctamente en el universo que vayamos a jugar deberíamos, al menos, darle un pequeño vistazo al *lore* de los humanos en caso de que queramos ser de esta raza y a cómo funcionan los sacerdotes en el caso de que vayamos a querer jugar esta clase.
+
 Es decir, que para poder crear un personaje que tenga sentido en el mundo que se va a desarrollar la historia, sí, **hay que leer un poco a cerca de las características de la raza/clase que vayamos a jugar**. 
 
 Pero no os alarméis, si tenéis un **Dungeon Master** que se precie os echará una mano en cómo debe ir, más o menos, la historia que quieres inventarte para tu personaje.
@@ -14,4 +15,8 @@ Pero no os alarméis, si tenéis un **Dungeon Master** que se precie os echará 
 
 Para empezar puedes plantearte qué tipo de vida te gustaría que tu personaje haya llevado hasta el momento, si has nacido en una pequeña aldea sin apenas contacto con el resto del mundo, si eres hijo de algún investigador importante y por ello conoces ciertos secretos sobre la magia... Cualquier cosa que se te pueda ocurrir.
 
-Por ejemplo, un consejo que suelo dar, es que intentes encarnar a un personaje que ya conozcas de cualquier novela, película, serie o anime que hayas visto y trates de adaptarlo.
+Por ejemplo, un consejo que suelo dar, es que intentes encarnar a un personaje que ya conozcas de cualquier novela, película, serie o anime que hayas visto y trates de adaptarlo. Así nos será más fácil darle la personalidad que queremos y actuar como él lo haría.
+
+`Es por esto que, cuando pensemos en la historia de nuestro personaje, es recomendable que tengamos en cuenta qué habilidades o características queremos que tenga y estas deberían venir respaldadas por el pasado o la historia de tu personaje.`
+
+Es decir, intenta leer algo sobre la raza y clase que vayas a jugar, y trata de darle sentido, respecto a las habilidades que ganarás y cómo usarlas vamos a verlo en el apartado **Habilidades y Características**
